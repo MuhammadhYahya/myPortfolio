@@ -1,11 +1,11 @@
 export const Bio = {
-  name: "Muhammadh Yahya",
-  roles: ["Front-End Developer", "Web Developer", "Programmer", "Freelancer"],
+  name: "Yahya",
+  roles: ["Front-End Developer", "Programmer", "Freelancer"],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "Creating visually stunning, user-friendly web interfaces that engage and inspire. Every pixel and line of code is crafted with precision and creativity. ",
   github: "https://github.com/yahya676767",
   resume:
-    "https://drive.google.com/file/d/1W4iNUiCKOEz9oH0W49tXO6rq8pv82bEu/view?usp=drive_link",
+    "https://drive.google.com/file/d/1renuVU92c-QEwtVZs-6j3tK2pRAaQORT/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/muhammadh-yahya/",
   twitter: "#",
   insta: "https://www.instagram.com/yahy_aayyash/",

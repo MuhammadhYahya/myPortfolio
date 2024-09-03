@@ -24,15 +24,20 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to="/">
+        <NavLogo to="#about">
           <a
-            href="/"
+            href="#about"
+            onClick={(e) => {
+              e.preventDefault();
+              window.scrollTo({ top: 0, behavior: "smooth" });
+            }}
             style={{
               display: "flex",
               alignItems: "center",
               color: "white",
               marginBottom: "20;",
               cursor: "pointer",
+              textDecoration: "none",
             }}
           >
             <DiUnitySmall
