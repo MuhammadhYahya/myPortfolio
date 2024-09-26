@@ -1,11 +1,11 @@
 export const Bio = {
   name: "Yahya",
-  roles: ["Front-End Developer", "Programmer", "Freelancer"],
+  roles: ["Full-Stack Developer", "Software Engineer", "Freelancer"],
   description:
-    "Creating visually stunning, user-friendly web interfaces that engage and inspire. Every pixel and line of code is crafted with precision and creativity. ",
+    "Experienced Full-Stack Developer and Software Engineer delivering innovative solutions and custom-built web applications, available for freelance projects.",
   github: "https://github.com/yahya676767",
   resume:
-    "https://drive.google.com/file/d/1renuVU92c-QEwtVZs-6j3tK2pRAaQORT/view?usp=sharing",
+    "https://drive.google.com/file/d/1Svz3-A9PFMw5AFQKTMae-evPdYNvo4dp/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/muhammadh-yahya/",
   twitter: "#",
   insta: "https://www.instagram.com/yahy_aayyash/",
@@ -27,6 +27,10 @@ export const skills = [
           "https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000",
       },
       {
+        name: "Node Js",
+        image: "https://nodejs.org/static/images/logo.svg",
+      },
+      {
         name: "Bootstrap",
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
@@ -35,6 +39,11 @@ export const skills = [
         name: "JavaScript",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+      },
+      {
+        name: "MySQL",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
       },
     ],
   },
@@ -153,14 +162,9 @@ export const skills = [
           "https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000",
       },
       {
-        name: "Visual Studio",
+        name: "WordPress",
         image:
-          "https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000",
-      },
-      {
-        name: "Figma",
-        image:
-          "https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000",
+          "https://img.icons8.com/?size=100&id=1489&format=png&color=000000",
       },
     ],
   },

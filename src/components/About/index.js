@@ -12,7 +12,7 @@ const About = () => {
     <AboutSection>
       <AboutTitle>Crafting My Narrative</AboutTitle>
       <AboutText>
-        I'm Muhammadh Yahya, a passionate <b>Front-End Developer</b> with a
+        I'm Muhammadh Yahya, a passionate <b>Software Developer</b> with a
         strong foundation in web technologies and a keen eye for
         detail.Currently, I am specializing in{" "}
         <b>React.js, Next.js, Bootstrap, and JavaScript.</b>
