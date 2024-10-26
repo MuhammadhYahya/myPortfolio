@@ -3,9 +3,9 @@ export const Bio = {
   roles: ["Full-Stack Developer", "Software Engineer", "Freelancer"],
   description:
     "Experienced Full-Stack Developer and Software Engineer delivering innovative solutions and custom-built web applications, available for freelance projects.",
-  github: "https://github.com/yahya676767",
+  github: "https://github.com/MuhammadhYahya",
   resume:
-    "https://drive.google.com/file/d/1Svz3-A9PFMw5AFQKTMae-evPdYNvo4dp/view?usp=sharing",
+    "https://drive.google.com/file/d/1jFcMm1i3LEdmO2Ydik38BBuEYL8zqGer/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/muhammadh-yahya/",
   twitter: "#",
   insta: "https://www.instagram.com/yahy_aayyash/",
@@ -31,9 +31,9 @@ export const skills = [
         image: "https://nodejs.org/static/images/logo.svg",
       },
       {
-        name: "Bootstrap",
+        name: "tailwind css",
         image:
-          "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
+          "https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000",
       },
       {
         name: "JavaScript",
@@ -76,15 +76,11 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
       {
-        name: "Bootstrap",
-        image:
-          "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
-      },
-      {
         name: "TypeScript",
         image:
           "https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000",
       },
+
       {
         name: "tailwind css",
         image:
@@ -110,20 +106,11 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
       },
-      {
-        name: "PHP",
-        image:
-          "https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000",
-      },
+
       {
         name: "MongoDB",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
-      },
-      {
-        name: "laravel",
-        image:
-          "https://img.icons8.com/?size=100&id=hUvxmdu7Rloj&format=png&color=000000",
       },
     ],
   },
@@ -195,7 +182,7 @@ export const projects = [
   {
     id: 0,
     title: "Learning Management System",
-    date: "Apr 2023 - May 2023",
+    date: "April 2024 - July 2024",
     description:
       "SkillLoom is a comprehensive Full Stack Learning Management System  designed to enhance the educational experience for both students and professionals. By leveraging modern web technologies, this system offers a scalable, secure, and user-friendly environment for learning and teaching. Users can enroll in courses to gain additional knowledge and skills or create and provide courses to share their expertise.",
     image: "https://utfs.io/f/c3658fa8-eaad-4169-8248-074705f05180-wxxcvm.jpeg",
@@ -203,5 +190,17 @@ export const projects = [
     category: "web app",
     github: "https://github.com/yahya676767/skill-loom",
     webapp: "https://skillloom-yahyas-projects-f0fed11c.vercel.app/",
+  },
+  {
+    id: 1,
+    title: "Learning Management System",
+    date: "August 2024 - October 2024",
+    description:
+      "A real-time chat application built using the MERN stack (MongoDB, Express.js, React, and Node.js) to connect users through seamless messaging. This project features user authentication, interactive chat rooms, and real-time message updates powered by Socket.io.MongoDB serves as the backend database to securely store user data and messages, while React drives a dynamic and responsive user interface.",
+    image: "https://utfs.io/f/pd0xV9SFm4geEsK9cwycYC5iD017rZaj8kBeFydWzlI4QMVP",
+    tags: ["MongoDB", "Express.js", "React", "Node.js", "Socket.io"],
+    category: "web app",
+    github: "https://github.com/MuhammadhYahya/Eventica",
+    webapp: "https://eventica.onrender.com/",
   },
 ];
