@@ -5,7 +5,7 @@ export const Bio = {
     "Experienced Full-Stack Developer and Software Engineer delivering innovative solutions and custom-built web applications, available for freelance projects.",
   github: "https://github.com/MuhammadhYahya",
   resume:
-    "https://drive.google.com/file/d/1jFcMm1i3LEdmO2Ydik38BBuEYL8zqGer/view?usp=sharing",
+    "https://drive.google.com/file/d/1QQfaTzolkS4fMsvuSYd2DrLfJfPpDhcq/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/muhammadh-yahya/",
   twitter: "#",
   insta: "https://www.instagram.com/yahy_aayyash/",
@@ -22,18 +22,18 @@ export const skills = [
           "https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000",
       },
       {
-        name: "Next Js",
+        name: "css",
         image:
-          "https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000",
+          "https://img.icons8.com/?size=100&id=21278&format=png&color=000000",
       },
       {
-        name: "Node Js",
-        image: "https://nodejs.org/static/images/logo.svg",
+        name: "Java",
+        image: https://img.icons8.com/?size=100&id=13679&format=png&color=000000",
       },
       {
-        name: "tailwind css",
+        name: "Python",
         image:
-          "https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000",
+          "https://img.icons8.com/?size=100&id=13441&format=png&color=000000",
       },
       {
         name: "JavaScript",
@@ -92,8 +92,9 @@ export const skills = [
     title: "Backend",
     skills: [
       {
-        name: "Node Js",
-        image: "https://nodejs.org/static/images/logo.svg",
+        name: "Python",
+        image:
+          "https://img.icons8.com/?size=100&id=13441&format=png&color=000000",
       },
 
       {
