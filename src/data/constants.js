@@ -28,7 +28,7 @@ export const skills = [
       },
       {
         name: "Java",
-        image: https://img.icons8.com/?size=100&id=13679&format=png&color=000000",
+        image: "https://img.icons8.com/?size=100&id=13679&format=png&color=000000",
       },
       {
         name: "Python",
