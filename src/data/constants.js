@@ -195,14 +195,14 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Learning Management System",
-    date: "August 2024 - October 2024",
+    title: " Tesla Website Clone",
+    date: " February 2025– Present",
     description:
-      "A real-time chat application built using the MERN stack (MongoDB, Express.js, React, and Node.js) to connect users through seamless messaging. This project features user authentication, interactive chat rooms, and real-time message updates powered by Socket.io.MongoDB serves as the backend database to securely store user data and messages, while React drives a dynamic and responsive user interface.",
+      "Designed a responsive hero section utilizing Tailwind CSS, effectively reflecting Tesla’s aesthetic and branding principles",
     image:
       "https://xai1dhpg2m.ufs.sh/f/CYrmYqMg98rwSLaf5Pj6VtlDvH2RMzAkg43I8UKEaB75eQio",
-    tags: ["MongoDB", "Express.js", "React", "Node.js", "Socket.io"],
-    category: "web app",
+    tags: ["React", "Tailwind CSS"],
+    category: "website",
     github: "https://github.com/MuhammadhYahya/tesla_website_clone.git",
     webapp: "https://my01clone.netlify.app/",
   },
