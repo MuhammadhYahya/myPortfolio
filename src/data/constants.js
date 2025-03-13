@@ -5,7 +5,7 @@ export const Bio = {
     "Experienced Full-Stack Developer and Software Engineer delivering innovative solutions and custom-built web applications, available for freelance projects.",
   github: "https://github.com/MuhammadhYahya",
   resume:
-    "https://drive.google.com/file/d/1QFv2xkjCoLcmhqugxkfJu26EeN24tQ90/view?usp=drive_link",
+    "https://drive.google.com/file/d/1QQfaTzolkS4fMsvuSYd2DrLfJfPpDhcq/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/muhammadh-yahya/",
   twitter: "https://x.com/yahya_muha68261",
   insta: "https://www.instagram.com/yahy_aayyash/",
@@ -22,18 +22,19 @@ export const skills = [
           "https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000",
       },
       {
-        name: "Next Js",
+        name: "css",
         image:
-          "https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000",
+          "https://img.icons8.com/?size=100&id=21278&format=png&color=000000",
       },
       {
-        name: "Node Js",
-        image: "https://nodejs.org/static/images/logo.svg",
+        name: "Java",
+        image:
+          "https://img.icons8.com/?size=100&id=13679&format=png&color=000000",
       },
       {
-        name: "tailwind css",
+        name: "Python",
         image:
-          "https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000",
+          "https://img.icons8.com/?size=100&id=13441&format=png&color=000000",
       },
       {
         name: "JavaScript",
@@ -92,8 +93,9 @@ export const skills = [
     title: "Backend",
     skills: [
       {
-        name: "Node Js",
-        image: "https://nodejs.org/static/images/logo.svg",
+        name: "Python",
+        image:
+          "https://img.icons8.com/?size=100&id=13441&format=png&color=000000",
       },
 
       {
@@ -197,7 +199,8 @@ export const projects = [
     date: "August 2024 - October 2024",
     description:
       "A real-time chat application built using the MERN stack (MongoDB, Express.js, React, and Node.js) to connect users through seamless messaging. This project features user authentication, interactive chat rooms, and real-time message updates powered by Socket.io.MongoDB serves as the backend database to securely store user data and messages, while React drives a dynamic and responsive user interface.",
-    image: "https://xai1dhpg2m.ufs.sh/f/CYrmYqMg98rwSLaf5Pj6VtlDvH2RMzAkg43I8UKEaB75eQio",
+    image:
+      "https://xai1dhpg2m.ufs.sh/f/CYrmYqMg98rwSLaf5Pj6VtlDvH2RMzAkg43I8UKEaB75eQio",
     tags: ["MongoDB", "Express.js", "React", "Node.js", "Socket.io"],
     category: "web app",
     github: "https://github.com/MuhammadhYahya/tesla_website_clone.git",
