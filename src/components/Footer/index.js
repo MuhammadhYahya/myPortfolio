@@ -109,7 +109,7 @@ function Footer() {
             <InstagramIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2024 Muhammadh Yahya. All rights reserved.</Copyright>
+        <Copyright>&copy; 2025 Muhammadh Yahya. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );

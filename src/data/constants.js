@@ -5,9 +5,9 @@ export const Bio = {
     "Experienced Full-Stack Developer and Software Engineer delivering innovative solutions and custom-built web applications, available for freelance projects.",
   github: "https://github.com/MuhammadhYahya",
   resume:
-    "https://drive.google.com/file/d/1jFcMm1i3LEdmO2Ydik38BBuEYL8zqGer/view?usp=sharing",
+    "https://drive.google.com/file/d/1QFv2xkjCoLcmhqugxkfJu26EeN24tQ90/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/muhammadh-yahya/",
-  twitter: "#",
+  twitter: "https://x.com/yahya_muha68261",
   insta: "https://www.instagram.com/yahy_aayyash/",
   facebook: "https://web.facebook.com/yahya.hussain.986227/",
 };
@@ -188,7 +188,7 @@ export const projects = [
     image: "https://utfs.io/f/c3658fa8-eaad-4169-8248-074705f05180-wxxcvm.jpeg",
     tags: ["React Js", "TypeScript", "MySQL", "Next Js", "Tailwind CSS"],
     category: "web app",
-    github: "https://github.com/yahya676767/skill-loom",
+    github: "https://github.com/MuhammadhYahya/skill-loom.git",
     webapp: "https://skillloom-yahyas-projects-f0fed11c.vercel.app/",
   },
   {
@@ -197,10 +197,10 @@ export const projects = [
     date: "August 2024 - October 2024",
     description:
       "A real-time chat application built using the MERN stack (MongoDB, Express.js, React, and Node.js) to connect users through seamless messaging. This project features user authentication, interactive chat rooms, and real-time message updates powered by Socket.io.MongoDB serves as the backend database to securely store user data and messages, while React drives a dynamic and responsive user interface.",
-    image: "https://utfs.io/f/pd0xV9SFm4geEsK9cwycYC5iD017rZaj8kBeFydWzlI4QMVP",
+    image: "https://xai1dhpg2m.ufs.sh/f/CYrmYqMg98rwSLaf5Pj6VtlDvH2RMzAkg43I8UKEaB75eQio",
     tags: ["MongoDB", "Express.js", "React", "Node.js", "Socket.io"],
     category: "web app",
-    github: "https://github.com/MuhammadhYahya/Eventica",
-    webapp: "https://eventica.onrender.com/",
+    github: "https://github.com/MuhammadhYahya/tesla_website_clone.git",
+    webapp: "https://my01clone.netlify.app/",
   },
 ];
